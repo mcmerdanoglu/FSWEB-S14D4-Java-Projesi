@@ -1,10 +1,8 @@
 public class Store {
     public static void main(String[] args) {
 
-        listProducts();
+      //  listProducts();
     }
 
-    public static void listProducts(ProductForSale[] products) {
-
-    }
+   // public static void listProducts(ProductForSale[] products) {}
 }
